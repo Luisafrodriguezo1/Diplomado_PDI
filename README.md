@@ -10,8 +10,8 @@
 
 **Taller_D2M1_10_SAM** 
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg) **Taller_D2M1_10_SAM** ](https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_10_SAM/Taller_D2M1_10_SAM.ipynb)
+* [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg) **Taller_D2M1_10_SAM** ](https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_10_SAM/Taller_D2M1_10_SAM.ipynb)
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg) **Taller_D2M1_10_SAM** ]
-(https://github.com/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_10_SAM/Ejercicio_D2M1_10__sam.ipynb)
+* [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg) **Ejercicio_D2M1_10_SAM**](https://github.com/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_10_SAM/Ejercicio_D2M1_10__sam.ipynb)
+
 
