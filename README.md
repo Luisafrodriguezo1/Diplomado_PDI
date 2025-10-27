@@ -7,4 +7,5 @@
 ****
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] **Taller D2M1_2 supervisado**(https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_2_supervisado/D2M1_2_supervisado_ejercicio.ipynb)
 
