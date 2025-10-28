@@ -15,6 +15,7 @@
 
 **D2M1_3_redes_neuronale**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)**D2M1_3_redes_neuronale_Ejercicio**](https://github.com/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_3_redes_neuronales/D2M1_3_redes_neuronales_Ejercicio.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_3_redes_neuronales/D2M1_3_redes_neuronales_Ejercicio.ipynb)
+
 
 
