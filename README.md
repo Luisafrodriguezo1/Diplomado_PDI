@@ -18,4 +18,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) **D2M1_3_redes_neuronale**](https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_3_redes_neuronales/D2M1_3_redes_neuronales_Ejercicio.ipynb)
 
 
+**D2M1_21_Metricas_regresion**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) D2M1_21_Metricas_regresion](https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_2_supervisado/D2M1_21_Metricas_regresion.ipynb)
+
+
 
