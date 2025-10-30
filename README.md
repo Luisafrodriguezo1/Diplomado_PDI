@@ -38,6 +38,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) **D2M1_4_redes_convolucionales**](https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_4_redes_convolucionales/D2M1_4_Redes_redes_convolucionales.ipynb)
 
+## Sesion 4
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) **D2M1_4_1_Regularizacion**](https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_4_redes_convolucionales/D2M1_4_1_Regularizacion.ipynb)  
+  [Ver en GitHub](https://github.com/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_4_redes_convolucionales/D2M1_4_1_Regularizacion.ipynb)
+
 
 
 
