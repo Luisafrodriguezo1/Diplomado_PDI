@@ -42,6 +42,11 @@
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) **D2M1_4_1_Regularizacion**](https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_4_redes_convolucionales/D2M1_4_1_Regularizacion.ipynb)  
   [Ver en GitHub](https://github.com/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_4_redes_convolucionales/D2M1_4_1_Regularizacion.ipynb)
 
+**D2M1_4_2s**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) **D2M1_4_2**](https://colab.research.google.com/github/Luisafrodriguezo1/Diplomado_PDI/blob/main/D2M1_4_redes_convolucionales/Ejercicio_SAM_GEOIA.ipynb)
+
+
 
 
 
